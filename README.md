@@ -7,7 +7,3 @@ Hello, world'
 I'm Brazilian and I speak English well xD
 
 Telegram : t.me/six0vl 
-
-
-
-&bg_color=161320&text_color=D9E0EE&icon_color=DDB6F2&title_color=96CDFB
